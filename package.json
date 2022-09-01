@@ -1,0 +1,23 @@
+{
+  "name": "CS5513-Week03-dstndnlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustindunlap/wk3-next.js-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustindunlap/wk3-next.js-fullstack/issues"
+  },
+  "homepage": "https://github.com/dustindunlap/wk3-next.js-fullstack#readme",
+  "dependencies": {
+    "next": "^12.2.5"
+  }
+}
